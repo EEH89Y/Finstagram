@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Finstagram</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="e_mail_address">E-mail address</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="like">Like</string>
+    <string name="title_activity_navi">NaviActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="upload">Upload</string>
+    <string name="open_profile">Open profile</string>
+    <string name="open_feed">Open Feed</string>
+    <string name="sign_out">Sign out</string>
+
+    <string-array name="post_user_names">
+        <item>marika</item>
+        <item>petike</item>
+        <item>bazsi</item>
+    </string-array>
+    <string-array name="post_desc">
+        <item>Unokaim</item>
+        <item>Valami idezet</item>
+        <item>Ez egy gamer pc!</item>
+    </string-array>
+
+    <array name="post_images">
+        <item>@drawable/marika</item>
+        <item>@drawable/dummy</item>
+        <item>@drawable/gamer</item>
+    </array>
+
+</resources>

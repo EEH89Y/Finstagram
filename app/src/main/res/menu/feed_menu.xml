@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/search_bar"-->
+<!--        android:title="Serarch"-->
+<!--        app:showAsAction="always"-->
+<!--        android:icon="@drawable/ic_baseline_search_24"-->
+<!--        app:actionViewClass="android.widget.SearchView"-->
+<!--        />-->
+    <item
+        android:id="@+id/uploadButton"
+        android:title="Upload"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id="@+id/log_outButton"
+        android:title="Log out"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="2"
+        />
+</menu>
